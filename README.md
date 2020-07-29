@@ -1,6 +1,6 @@
 <img src="https://github.com/westington/westington/blob/master/modena-bg.png" alt="Webbutvecklare Gabriel Westington" />
 
-### Hej! 👋 Jag heter Gabriel Westington och jag bygger hemsidor i Wordpress. Senaste 8 åren har jag arbetat på heltid med webbutveckling som frilansare. 
+### Hej! 👋 Jag heter Gabriel Westington och jag bygger hemsidor i Wordpress. Senaste 8 år har jag arbetat på heltid med webbutveckling som frilansare. 
 
 <!--
 **westington/westington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
