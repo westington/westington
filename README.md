@@ -1,3 +1,5 @@
+<img src="https://github.com/westington/westington/blob/master/modena-bg.png" alt="Webbutvecklare Gabriel Westington" />
+
 ### Hej! 👋 Jag heter Gabriel Westington och jag bygger hemsidor i Wordpress. Senaste 8 åren har jag arbetat på heltid med webbutveckling som frilansare. 
 
 <!--
